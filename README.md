@@ -2,7 +2,7 @@
 
 ### This is an Advanced project using (selenium, pillow, urllib, io, tkinter and customtkinter)
 ### You have to write your email, password and describe the image you want to be created, and select the image size. Then, wait a few seconds and then the images will be created.
-### it uses bing. so make sure you already have an accound in bing.
+### it uses bing. so make sure you already have an account in bing.
 - NOTE (you have to download the chromedriver and put it in the same directory of the python file)
 - (this project is a selenium bot so, sometimes it can face problems due to the internet connection or website situations. be aware!)
 
